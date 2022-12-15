@@ -161,11 +161,11 @@ cython_debug/
 
 #notebooks/
 *data/01_raw_data/
-*data/02_preprocessed/
-*data/06_model/
-*data/07_model_output/
-*data/08_report/
+#*data/02_preprocessed/
+#*data/06_model/
+#*data/07_model_output/
+#*data/08_report/
 *.h5
 *.png
 *.html
-*.csv
+#*.csv
